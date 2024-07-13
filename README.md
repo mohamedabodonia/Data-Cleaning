@@ -1,4 +1,4 @@
-# Data-Cleaning : appling quries on data to make it suitable for analysis 
+# Data-Cleaning : appling queries on data to make it suitable for analysis 
 1-Chande date format 
 2-Add new column "SaleDateConverted" for the new format of the date 
 3-Deal with "NULL" values
